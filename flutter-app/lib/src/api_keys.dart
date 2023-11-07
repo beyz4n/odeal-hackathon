@@ -1,0 +1,2 @@
+const AZURE_OPENAI_ENDPOINT = "https://girisimgpt.openai.azure.com/openai/deployments/girisimgpt/chat/completions?api-version=2023-07-01-preview";
+const AZURE_OPENAI_KEY = "7d86bd0519b4468f8a1bf711708f8f11";
