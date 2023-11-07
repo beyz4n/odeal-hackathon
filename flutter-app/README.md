@@ -14,12 +14,13 @@ In order to run the application successfully, please follow these steps:
 
 1. Create an `api_keys.dart` file in the `src` directory, as detailed in the [accompanying article](https://alexandre-lipp.medium.com/chatgpt-clone-with-flutter-and-azure-openai-95b4aa908f3f). Ensure that you securely store your
    API keys and other sensitive information.
+   (We cannot put the "build" folder to the github due to restrictions on size and amount.
 
-2. Clone or download this repository to your local machine.
+3. Clone or download this repository to your local machine.
 
-3. Set up a Flutter development environment if you haven't already.
+4. Set up a Flutter development environment if you haven't already.
 
-4. Run the application on your local environment and start exploring the chatbot capabilities.
+5. Run the application on your local environment and start exploring the chatbot capabilities.
 
 ## Features
 
